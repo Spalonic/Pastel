@@ -1,1 +1,1 @@
-# Pastel Website for the Artist Pastel
+# Website for the Artist Pastel
