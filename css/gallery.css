@@ -101,3 +101,19 @@ html, body{
   left: 41%;
   font-size: 40px;
 }
+
+.PastelRef img {
+  position: fixed;
+  top: 60%;
+  left: 20%;
+  width: 400px;
+  height: 300px;
+}
+
+.Alex img {
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  width: 400px;
+  height: 350px;
+}
